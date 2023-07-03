@@ -1,0 +1,1 @@
+export const tumb_img ="https://media.licdn.com/dms/image/D4D16AQGBu4rPhbqO8w/profile-displaybackgroundimage-shrink_200_800/0/1672152509446?e=1694044800&v=beta&t=K7mvRJQxi3lKT37MGFtehgXdBvMP3Nnt9LpGCnLTuOQ";

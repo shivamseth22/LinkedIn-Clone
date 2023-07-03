@@ -8,3 +8,8 @@
 .body{
   background: rgb(243,242,239);
 }
+.home-page{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
