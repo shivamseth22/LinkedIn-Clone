@@ -1,10 +1,9 @@
 import React from "react";
 import { tumb_img } from "../constant";
 import { cir_img } from "../constant";
-import {BsCardImage} from "react-icons/bs";
-import {PiVideoFill} from "react-icons/pi";
-import {FaShoppingBag ,FaRegListAlt} from "react-icons/fa";
-
+import { BsCardImage } from "react-icons/bs";
+import { PiVideoFill } from "react-icons/pi";
+import { FaShoppingBag, FaRegListAlt } from "react-icons/fa";
 
 const HomePage = () => {
   return (
@@ -53,23 +52,22 @@ const HomePage = () => {
           </div>
           <div className="flex justify-between items-center mx-8 my-2 pb-4 ">
             <div className="flex items-center gap-2">
-               <BsCardImage className="text-xl " />
+              <BsCardImage className="text-xl " />
               <h1>Photo</h1>
             </div>
             <div className="flex items-center gap-2">
-            <PiVideoFill className="text-xl "/>
-           
+              <PiVideoFill className="text-xl " />
+
               <h1>Video</h1>
             </div>
             <div className="flex items-center gap-2">
-            <FaShoppingBag className="text-xl "/>
-       
+              <FaShoppingBag className="text-xl " />
+
               <h1>Job</h1>
             </div>
             <div className="flex items-center gap-2">
-            <FaRegListAlt className="text-xl "/>
-              <h1>Write Articl e</h1>
-              
+              <FaRegListAlt className="text-xl " />
+              <h1>Write Articl</h1>
             </div>
           </div>
         </div>
