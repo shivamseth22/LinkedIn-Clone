@@ -68,8 +68,8 @@ const HomePage = () => {
             <div className="flex items-center gap-2">
               <FaRegListAlt className="text-xl " />
               <h1>Write Articl</h1>
-            hi
-            
+          
+
               
              </div>
           </div>
